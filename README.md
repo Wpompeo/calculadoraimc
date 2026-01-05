@@ -3,11 +3,12 @@ Projeto desenvolvido em kotlin, onde foi feito um aplicativo Android nativo que 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-Screenshots
-<img src="https://github.com/Wpompeo/calculadoraimc/assets/69810568/d2ac6de9-9012-4326-a567-09462b31ef19" width=200/> <img src="https://github.com/Wpompeo/calculadoraimc/assets/69810568/9a3cf549-338a-4048-b856-a80a28eec98b" width=200/>
+
+<img src="https://github.com/Wpompeo/calculadoraimc/assets/69810568/d2ac6de9-9012-4326-a567-09462b31ef19" width=200/>
+<img src="https://github.com/Wpompeo/calculadoraimc/assets/69810568/9a3cf549-338a-4048-b856-a80a28eec98b" width=200/>
 
 
-## Tecnologias
+## 🖥️ Tecnologias
 - Activity
 - Intent
 - Snackbar
